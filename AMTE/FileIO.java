@@ -17,7 +17,7 @@ public static void main(String[] args) {
 
     }
     }
-    catch(IOException e){
+    catch(Exception e){
         System.out.println(e.toString());
     }
     
